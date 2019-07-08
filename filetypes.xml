@@ -19,6 +19,7 @@
       <mapping pattern="memo_genericite" type="JAVA" />
       <mapping pattern="memo_class" type="JAVA" />
       <mapping pattern="memo_collection_objet" type="JAVA" />
+      <mapping pattern="main" type="JAVA" />
       <mapping pattern="memo_list" type="JAVA" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ab" type="PLAIN_TEXT" />
