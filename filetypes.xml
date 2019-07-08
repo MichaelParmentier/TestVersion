@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="BIke" type="CLASS" />
+      <mapping pattern="bike" type="CLASS" />
+      <mapping pattern="memo_boucles" type="JAVA" />
+      <mapping pattern="memo_methodes" type="JAVA" />
+      <mapping pattern="memo_tableaux" type="JAVA" />
+      <mapping pattern="memo_heritage" type="JAVA" />
+      <mapping pattern="WorldSpecial" type="JAVA" />
+      <mapping pattern="memo_flux_IN_OUT" type="JAVA" />
+      <mapping pattern="memo_classes_abstraites_et_interfaces" type="JAVA" />
+      <mapping pattern="memo_conditions" type="JAVA" />
+      <mapping pattern="memo_enum" type="JAVA" />
+      <mapping pattern="memo_scanner" type="JAVA" />
+      <mapping pattern="Bike" type="JAVA" />
+      <mapping pattern="memo_exceptions" type="JAVA" />
+      <mapping pattern="memo_genericite" type="JAVA" />
+      <mapping pattern="memo_class" type="JAVA" />
+      <mapping pattern="memo_collection_objet" type="JAVA" />
+      <mapping pattern="memo_list" type="JAVA" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="ab" type="PLAIN_TEXT" />
+      <mapping pattern="memo_List" type="PLAIN_TEXT" />
+      <mapping ext="ml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

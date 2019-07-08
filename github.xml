@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="48accc33-2aff-4215-ba7a-50dc7256d08e" name="michael.parmentier@etu.univ-poitiers.fr">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
