@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Robots" type="CLASS" />
       <mapping pattern="BIke" type="CLASS" />
       <mapping pattern="bike" type="CLASS" />
       <mapping pattern="memo_boucles" type="JAVA" />
@@ -10,6 +11,7 @@
       <mapping pattern="memo_heritage" type="JAVA" />
       <mapping pattern="WorldSpecial" type="JAVA" />
       <mapping pattern="memo_flux_IN_OUT" type="JAVA" />
+      <mapping pattern="Robot" type="JAVA" />
       <mapping pattern="memo_classes_abstraites_et_interfaces" type="JAVA" />
       <mapping pattern="memo_conditions" type="JAVA" />
       <mapping pattern="memo_enum" type="JAVA" />
